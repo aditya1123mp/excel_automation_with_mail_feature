@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test_Case_For_Excel_And_Mail_Automation,Chrome 127.0.0.0,Test_Case_For_Excel_And_Mail_Automation,,13-08-2024 15:02:49,13-08-2024 15:26:13,23m - 23.864s,PASSED
+,,,,,,,
+Test Cases/Test_case_for_excel_and_mail_automation,Chrome 127.0.0.0,Test_case_for_excel_and_mail_automation,,13-08-2024 15:02:49,13-08-2024 15:26:13,23m - 23.701s,PASSED
+"callTestCase(findTestCase(""test_case_for_creating_excel_with_data""), [:], STOP_ON_FAILURE)",Chrome 127.0.0.0,,,13-08-2024 15:02:50,13-08-2024 15:13:26,10m - 36.719s,PASSED
+"callTestCase(findTestCase(""Test_Case_To_Mail_An_Excel_File""), [:], STOP_ON_FAILURE)",Chrome 127.0.0.0,,,13-08-2024 15:13:26,13-08-2024 15:13:34,7.527s,PASSED
+"callTestCase(findTestCase(""Test_Case_To_Reteive_Excel_File_From_Mail""), [:], STOP_ON_FAILURE)",Chrome 127.0.0.0,,,13-08-2024 15:13:34,13-08-2024 15:13:43,8.820s,PASSED
+"callTestCase(findTestCase(""test_case_for_getting_data_from_folder""), [:], STOP_ON_FAILURE)",Chrome 127.0.0.0,,,13-08-2024 15:13:43,13-08-2024 15:26:13,12m - 30.326s,PASSED

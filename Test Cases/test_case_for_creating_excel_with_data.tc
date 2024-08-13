@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test_case_for_creating_excel_with_data</description>
+   <name>test_case_for_creating_excel_with_data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>37ad549f-6e2d-47bc-8429-bb8959f5da01</testCaseGuid>
+</TestCaseEntity>

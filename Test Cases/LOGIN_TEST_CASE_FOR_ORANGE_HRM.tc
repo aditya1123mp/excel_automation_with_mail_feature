@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>LOGIN_TEST_CASE_FOR_ORANGE_HRM</description>
+   <name>LOGIN_TEST_CASE_FOR_ORANGE_HRM</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c2a7c15c-efcf-4135-917d-21b7b108af53</testCaseGuid>
+</TestCaseEntity>

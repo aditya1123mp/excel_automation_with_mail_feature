@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>theis test will allow the user to reterve login creds from the mail so that user can login with new creds</description>
+   <name>test_case_to_reterive_the_login_creds_from_mail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>849f9fe1-e0df-468b-8ad7-a7014e9e19f3</testCaseGuid>
+</TestCaseEntity>

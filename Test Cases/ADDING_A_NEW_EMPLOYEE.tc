@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ADDING_A_NEW_EMPLOYEE</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0f2d5b2a-eb91-4514-aa58-215080c649b9</testCaseGuid>
+</TestCaseEntity>

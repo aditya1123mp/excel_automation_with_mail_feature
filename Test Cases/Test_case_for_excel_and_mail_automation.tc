@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test_case_for_excel_and_mail_automation</description>
+   <name>Test_case_for_excel_and_mail_automation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>80b1c5cf-968a-470a-9c85-a5de04f90f83</testCaseGuid>
+</TestCaseEntity>

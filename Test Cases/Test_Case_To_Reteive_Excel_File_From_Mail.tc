@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test_Case_To_Reteive_Excel_File_From_Mail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f1957c5d-a797-4d7b-8466-d7ffb121732f</testCaseGuid>
+</TestCaseEntity>

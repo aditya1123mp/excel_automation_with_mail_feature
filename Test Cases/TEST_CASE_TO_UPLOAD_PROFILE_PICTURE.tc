@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TEST_CASE_TO_UPLOAD_PROFILE_PICTURE</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>23a3adc9-e446-4c69-9937-5278ad7f1061</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_case_for_new_login_creds_excel_sheet</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0ae651cc-3a62-47cf-b50e-0f872611b620</testCaseGuid>
+</TestCaseEntity>

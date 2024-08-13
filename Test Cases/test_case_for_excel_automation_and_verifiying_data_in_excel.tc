@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_case_for_excel_automation_and_verifiying_data_in_excel</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>75d69f27-2502-45fc-9702-68244d44e5ff</testCaseGuid>
+</TestCaseEntity>

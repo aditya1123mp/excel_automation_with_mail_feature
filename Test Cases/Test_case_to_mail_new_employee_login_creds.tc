@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>a mail will send the new employee login creds</description>
+   <name>Test_case_to_mail_new_employee_login_creds</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e7a92752-b605-44ed-851d-9bc83d6fbd64</testCaseGuid>
+</TestCaseEntity>
